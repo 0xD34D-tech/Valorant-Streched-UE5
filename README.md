@@ -47,7 +47,7 @@ This tool allows you to easily apply a "true stretched" resolution to Valorant b
 - If NirCmd is not detected, run the installer script first or add NirCmd manually to your PATH.
 - You might need to restart your PC or log off and log back in for PATH changes to take effect.
 - Make sur to save the GameUserSettings.ini files before using this script
-- Your antivirus may take this as a Malware/Trojan If you want to access the original code the bat files a hidden in the directory google it to see how to see hidden files.
+- Your antivirus may take this as a Malware/Trojan If your unsure of what it can do to your pc, just do not launch it ;)
 
 
 ---
