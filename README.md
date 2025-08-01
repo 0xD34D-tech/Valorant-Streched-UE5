@@ -72,6 +72,7 @@ MIT License
 ## Contact
 
 For questions or support, open an issue or contact me.
+https://discord.gg/EtsfpKWCeH
 
 
 Made by 0xD34D and Layzow
